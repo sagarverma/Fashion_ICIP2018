@@ -1,0 +1,171 @@
+\begin{thebibliography}{10}
+
+\bibitem{HuangICCV2015}
+Junshi Huang, Rogerio Feris, Qiang Chen, and Shuicheng Yan,
+\newblock ``Cross-domain image retrieval with a dual attribute-aware ranking
+  network,''
+\newblock in {\em ICCV}, 2015, pp. 1062--1070.
+
+\bibitem{VeitICCV2015}
+Andreas Veit et~al.,
+\newblock ``Learning visual clothing style with heterogeneous dyadic
+  co-occurrences,''
+\newblock in {\em ICCV}, 2015, pp. 4642--4650.
+
+\bibitem{WangICMR2016}
+Xi~Wang, Zhenfeng Sun, Wenqiang Zhang, Yu~Zhou, and Yu-Gang Jiang,
+\newblock ``Matching user photos to online products with robust deep
+  features,''
+\newblock in {\em ICMR}, 2016, pp. 7--14.
+
+\bibitem{WangCVPR2014}
+Jiang Wang et~al.,
+\newblock ``Learning fine-grained image similarity with deep ranking,''
+\newblock in {\em CVPR}, 2014.
+
+\bibitem{SimoSerraCVPR2016}
+E.~Simo-Serra and H.~Ishikawa,
+\newblock ``Fashion style in 128 floats: Joint ranking and classification using
+  weak data for feature extraction,''
+\newblock in {\em CVPR}, 2016, pp. 298--307.
+
+\bibitem{SimoSerraACCV2014}
+Edgar Simo-Serra, Sanja Fidler, Francesc Moreno-Noguer, and Raquel Urtasun,
+\newblock ``A high performance crf model for clothes parsing,''
+\newblock in {\em ACCV}, 2014, pp. 64--81.
+
+\bibitem{YamaguchiCVPR2012}
+K.~Yamaguchi, M.~H. Kiapour, L.~E. Ortiz, and T.~L. Berg,
+\newblock ``Parsing clothing in fashion photographs,''
+\newblock in {\em CVPR}, 2012, pp. 3570--3577.
+
+\bibitem{YamaguchiPAMI2015}
+K.~Yamaguchi, M.~H. Kiapour, L.~E. Ortiz, and T.~L. Berg,
+\newblock ``Retrieving similar styles to parse clothing,''
+\newblock in {\em TPAMI}, 2015, vol.~37, pp. 1028--1040.
+
+\bibitem{yang2014clothing}
+Wei Yang, Ping Luo, and Liang Lin,
+\newblock ``Clothing co-parsing by joint image segmentation and labeling,''
+\newblock in {\em CVPR}, 2014, pp. 3182--3189.
+
+\bibitem{chen2012describing}
+Huizhong Chen, Andrew Gallagher, and Bernd Girod,
+\newblock ``Describing clothing by semantic attributes,''
+\newblock in {\em ECCV}, 2012, pp. 609--623.
+
+\bibitem{YamaguchiBMVC2015}
+Kota Yamaguchi et~al.,
+\newblock ``Mix and match: Joint model for clothing and attribute
+  recognition,''
+\newblock in {\em BMVC}, 2015, vol.~1, p.~4.
+
+\bibitem{SimoSerraCVPR2015}
+Edgar Simo-Serra, Sanja Fidler, Francesc Moreno-Noguer, and Raquel Urtasun,
+\newblock ``Neuroaesthetics in fashion: Modeling the perception of
+  fashionability,''
+\newblock in {\em CVPR}, 2015, vol.~2, p.~6.
+
+\bibitem{LiuCVPR2012}
+S.~Liu, Z.~Song, G.~Liu, C.~Xu, H.~Lu, and S.~Yan,
+\newblock ``Street-to-shop: Cross-scenario clothing retrieval via parts
+  alignment and auxiliary set,''
+\newblock in {\em CVPR}, 2012, pp. 3330--3337.
+
+\bibitem{WangVCIP2017}
+Zhonghao Wang, Yujun Gu, Ya~Zhang, Jun Zhou, and Xiao Gu,
+\newblock ``Clothing retrieval with visual attention model,''
+\newblock in {\em VCIP}, 2017.
+
+\bibitem{ChenAAAI2018}
+Shang{-}Fu Chen et~al.,
+\newblock ``Order-free {RNN} with visual attention for multi-label
+  classification,''
+\newblock in {\em AAAI}, 2018.
+
+\bibitem{WangSTLSTMICCV2017}
+Zhouxia Wang, Tianshui Chen, Guanbin Li, Ruijia Xu, and Liang Lin,
+\newblock ``Multi-label image recognition by recurrently discovering
+  attentional regions,''
+\newblock in {\em ICCV}, 2017.
+
+\bibitem{resnet50}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun,
+\newblock ``Deep residual learning for image recognition,''
+\newblock in {\em CVPR}, 2016, pp. 770--778.
+
+\bibitem{vgg2014}
+Karen Simonyan and Andrew Zisserman,
+\newblock ``Very deep convolutional networks for large-scale image
+  recognition,''
+\newblock in {\em CoRR}, 2014, vol. abs/1409.1556.
+
+\bibitem{LokeICCE2017}
+K.~S. Loke,
+\newblock ``Automatic recognition of clothes pattern and motifs empowering
+  online fashion shopping,''
+\newblock in {\em ICCE-TW}, 2017, pp. 375--376.
+
+\bibitem{LiuMM2012}
+Si~Liu et~al.,
+\newblock ``Hi, magic closet, tell me what to wear!,''
+\newblock in {\em Proceedings of the 20th ACM international conference on
+  Multimedia}, 2012, pp. 619--628.
+
+\bibitem{cimpoi2015deep}
+Mircea Cimpoi, Subhransu Maji, and Andrea Vedaldi,
+\newblock ``Deep filter banks for texture recognition and segmentation,''
+\newblock in {\em CVPR}, 2015, pp. 3828--3836.
+
+\bibitem{andrearczyk2016using}
+Vincent Andrearczyk and Paul~F Whelan,
+\newblock ``Using filter banks in convolutional neural networks for texture
+  classification,''
+\newblock in {\em Pattern Recognition Letters}, 2016, vol.~84, pp. 63--69.
+
+\bibitem{ZhangCVPR2017}
+Hang Zhang, Jia Xue, and Kristin Dana,
+\newblock ``Deep {TEN}: Texture encoding network,''
+\newblock in {\em CVPR}, 2017.
+
+\bibitem{VLADCVPR2010}
+H.~Jégou, M.~Douze, C.~Schmid, and P.~Pérez,
+\newblock ``Aggregating local descriptors into a compact image
+  representation,''
+\newblock in {\em CVPR}, 2010, pp. 3304--3311.
+
+\bibitem{FisherCVPR2007}
+F.~Perronnin and C.~Dance,
+\newblock ``Fisher kernels on visual vocabularies for image categorization,''
+\newblock in {\em CVPR}, 2007, pp. 1--8.
+
+\bibitem{JaderbergNIPS2015}
+Max Jaderberg, Karen Simonyan, Andrew Zisserman, and Koray Kavukcuoglu,
+\newblock ``Spatial transformer networks,''
+\newblock in {\em NIPS}, 2015, pp. 2017--2025.
+
+\bibitem{ZhaoToP2017}
+B.~Zhao, X.~Wu, J.~Feng, Q.~Peng, and S.~Yan,
+\newblock ``Diversified visual attention networks for fine-grained object
+  classification,''
+\newblock in {\em IEEE Transactions on Multimedia}, 2017.
+
+\bibitem{InoueICCVW2017}
+Naoto Inoue, Edgar Simo-Serra, Toshihiko Yamasaki, and Hiroshi Ishikawa,
+\newblock ``Multi-label fashion image classification with minimal human
+  supervision,''
+\newblock in {\em ICCVW}, 2017, pp. 2261--2267.
+
+\bibitem{veit2017learning}
+Andreas Veit et~al.,
+\newblock ``Learning from noisy large-scale datasets with minimal
+  supervision,''
+\newblock in {\em CVPR}, 2017.
+
+\bibitem{LiuCVPR2016}
+Z.~Liu, P.~Luo, S.~Qiu, X.~Wang, and X.~Tang,
+\newblock ``Deepfashion: Powering robust clothes recognition and retrieval with
+  rich annotations,''
+\newblock in {\em CVPR}, 2016, pp. 1096--1104.
+
+\end{thebibliography}
